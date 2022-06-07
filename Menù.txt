@@ -13,12 +13,12 @@
             Arancino al riso                                                          
                                                               
  primipiatti:
- pasta al forno
- lasagne
- ravioli ripieni
- pasta con patate
- pasta con patate
- pasta con lenticchie          
+            pasta al forno
+            lasagne
+            ravioli ripieni
+            pasta con patate
+            pasta con patate
+            pasta con lenticchie          
 
  
 
