@@ -1,22 +1,44 @@
                                                                     Develope Restaurant
-                                                                    
-                                                                    
+                  
+                  
+ Menù di Carne:         
+                  
+                  
+ Antipasti: 
+            Vitello tonnato
+            Cornetti salati
+            Corn dog
+            Supplì al telefono
+            Polpette fritte rustiche
+            Arancino al riso                                                          
                                                               
-Menù Carne:
-dolci: tiramisu
-       mousse ai frutti di bosco
-       cheesecake
-       crostate al cioccolato
-       creme caramel
-       cannolo
+          
+
+ 
 
 
+Secondipiatti:
+              Gateau
+              Polpette al sugo
+              Lonza di maiale
+              Sapura di maiale
+              Vitello tonnato
+              Crocchette di riso
 
-Bevande : Acqua naturale
-          Acqua frizzante
-          Coca Cola
-          Fanta
-          Chinotto
-          Birra alla spina 
-                                                              
+
+ Bevande : 
+              Acqua naturale
+              Acqua frizzante
+              Coca Cola
+              Fanta
+              Chinotto
+              Birra alla spina 
+          
+ Dolci:
+              tiramisu
+              mousse ai frutti di bosco
+              cheesecake
+              crostate al cioccolato
+              creme caramel
+              cannoli                                                   
                                                                                                                             
