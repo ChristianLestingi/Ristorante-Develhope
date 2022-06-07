@@ -1,7 +1,13 @@
 Develop Restaurant
 
 Menù Carne :
-
+Secondi piatti: 
+Gateau di patate
+Vitello tonnato
+Polpette al sugo 
+Bistecche alla fiorentina
+Arancina al ragù 
+Crocchetta di riso
 
 
 
