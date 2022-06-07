@@ -1,6 +1,7 @@
 Develop Restaurant
 
 Menù Carne :
+
 Secondi piatti: 
 Gateau di patate
 Vitello tonnato
@@ -8,6 +9,15 @@ Polpette al sugo
 Bistecche alla fiorentina
 Arancina al ragù 
 Crocchetta di riso
+
+Antipasti:
+        patatine fritte
+        polpette
+        crocchette
+        arancino di riso
+        anelli di cipolla
+        mozzarella di bufala
+
 
 
 
@@ -19,4 +29,10 @@ Bevande : Acqua naturale
           Chinotto
           Birra alla spina 
           
-
+primipiatti:
+pasta col sugo
+pasta con le patate 
+pasta al forno
+ravioli con carne 
+pasta con lenticchie 
+paccheri la ragù
