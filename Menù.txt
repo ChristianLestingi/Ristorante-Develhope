@@ -3,6 +3,7 @@
                                                                     
                                                               
 Menù Carne:
+
 Secondipiatti:
 Gateau
 Polpette al sugo
@@ -10,6 +11,14 @@ Lonza di maiale
 Sapura di maiale
 Vitello tonnato
 crocchette di riso
+
+
+Antipasti: Vitello tonnato
+        Cornetti salati
+        Corn dog
+        Supplì il telefono
+        Polpette fritte rustiche
+        Arancino al riso
 
 
 
