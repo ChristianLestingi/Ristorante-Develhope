@@ -19,4 +19,10 @@ Bevande : Acqua naturale
           Chinotto
           Birra alla spina 
           
-
+primipiatti:
+pasta col sugo
+pasta con le patate 
+pasta al forno
+ravioli con carne 
+pasta con lenticchie 
+paccheri la ragù
