@@ -3,7 +3,12 @@
                                                                     
                                                               
 Menù Carne:
-
+Antipasti: Vitello tonnato
+        Cornetti salati
+        Corn dog
+        Supplì il telefono
+        Polpette fritte rustiche
+        Arancino al riso
 
 
 
