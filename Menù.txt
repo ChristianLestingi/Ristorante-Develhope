@@ -1,7 +1,13 @@
 Develop Restaurant
 
 Menù Carne :
-
+Antipasti:
+        patatine fritte
+        polpette
+        crocchette
+        arancino di riso
+        anelli di cipolla
+        mozzarella di bufala
 
 
 
