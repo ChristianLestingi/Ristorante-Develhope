@@ -1,1 +1,20 @@
+Develop Restaurant
+
+Menù Carne :
+Antipasti:
+        patatine fritte
+        polpette
+        crocchette
+        arancino di riso
+        anelli di cipolla
+        mozzarella di bufala
+
+
+Bevande : Acqua naturale
+          Acqua frizzante
+          Coca Cola
+          Fanta
+          Chinotto
+          Birra alla spina 
+          
 
