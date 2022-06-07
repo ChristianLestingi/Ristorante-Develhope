@@ -1,15 +1,2 @@
-Develop Restaurant
 
-Menù Carne :
-Antipasti:
-  
-
-
-Bevande : Acqua naturale
-          Acqua frizzante
-          Coca Cola
-          Fanta
-          Chinotto
-          Birra alla spina 
-          
 
